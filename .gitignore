@@ -12,3 +12,4 @@ wheels/
 # Added by cargo
 
 /target
+.env

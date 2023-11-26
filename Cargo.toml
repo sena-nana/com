@@ -5,3 +5,6 @@ edition = "2021"
 
 [dependencies]
 serialport = "4.2.2"
+vtubestudio = "0.8.0"
+tokio = { version = "1", features = ["full"] }
+dotenv = "0.15.0"
